@@ -15,5 +15,16 @@ $$f(x) = x^2 $$
 * `git init` : this initializes repository
 
 
+* `git status`: this tells us the status of the repository
+
+* `git add`: adds files to be tracked
+* `git commit`: dedicate myself to a version
+
+----
+
+### tracking changes
+
+now what...
+
 
 
