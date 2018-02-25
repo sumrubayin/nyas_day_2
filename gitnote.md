@@ -31,4 +31,8 @@ Hello again
 I like math.
 
 
+* `git diff` : shows changes that are not yet tracked (added and committed but saved)
+
+
+
 
